@@ -5301,18 +5301,18 @@ endobj
 1132 0 obj
 <</Length 17702/Subtype/XML/Type/Metadata>>stream
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c123 79.158978, 2016/02/13-01:11:19        ">
- <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <rdf:RDF xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about=""
-    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
-    xmlns:xmpGImg="http://ns.adobe.com/xap/1.0/g/img/"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
-    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
-    xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
-    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
-    xmlns:tiff="http://ns.adobe.com/tiff/1.0/"
-    xmlns:exif="http://ns.adobe.com/exif/1.0/"
-    xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
+    xmlns:xmp="https://ns.adobe.com/xap/1.0/"
+    xmlns:xmpGImg="https://ns.adobe.com/xap/1.0/g/img/"
+    xmlns:dc="https://purl.org/dc/elements/1.1/"
+    xmlns:xmpMM="https://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="https://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:stRef="https://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+    xmlns:photoshop="https://ns.adobe.com/photoshop/1.0/"
+    xmlns:tiff="https://ns.adobe.com/tiff/1.0/"
+    xmlns:exif="https://ns.adobe.com/exif/1.0/"
+    xmlns:pdf="https://ns.adobe.com/pdf/1.3/"
    xmp:CreatorTool="Adobe Illustrator CS5"
    xmp:CreateDate="2013-12-27T14:56:58Z"
    xmp:MetadataDate="2013-12-27T14:56:58Z"
@@ -15066,14 +15066,14 @@ endobj
 3 0 obj
 <</Length 4938/Subtype/XML/Type/Metadata>>stream
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c123 79.158978, 2016/02/13-01:11:19        ">
- <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <rdf:RDF xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about=""
-    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
-    xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
-    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
-    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:xmpMM="https://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stRef="https://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+    xmlns:stEvt="https://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:xmp="https://ns.adobe.com/xap/1.0/"
+    xmlns:dc="https://purl.org/dc/elements/1.1/"
+    xmlns:photoshop="https://ns.adobe.com/photoshop/1.0/"
    xmpMM:OriginalDocumentID="xmp.did:0c97307c-e24c-4f1a-b5de-ea5ee7921d0a"
    xmpMM:DocumentID="adobe:docid:photoshop:0c0fe44e-85c3-1179-b4dd-9c071e3c25e6"
    xmpMM:InstanceID="xmp.iid:49ae2ce3-d592-4d3e-958b-c0fbd7c6a334"
@@ -15729,18 +15729,18 @@ endobj
 7 0 obj
 <</Length 17702/Subtype/XML/Type/Metadata>>stream
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c123 79.158978, 2016/02/13-01:11:19        ">
- <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <rdf:RDF xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about=""
-    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
-    xmlns:xmpGImg="http://ns.adobe.com/xap/1.0/g/img/"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
-    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
-    xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
-    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
-    xmlns:tiff="http://ns.adobe.com/tiff/1.0/"
-    xmlns:exif="http://ns.adobe.com/exif/1.0/"
-    xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
+    xmlns:xmp="https://ns.adobe.com/xap/1.0/"
+    xmlns:xmpGImg="https://ns.adobe.com/xap/1.0/g/img/"
+    xmlns:dc="https://purl.org/dc/elements/1.1/"
+    xmlns:xmpMM="https://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="https://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:stRef="https://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+    xmlns:photoshop="https://ns.adobe.com/photoshop/1.0/"
+    xmlns:tiff="https://ns.adobe.com/tiff/1.0/"
+    xmlns:exif="https://ns.adobe.com/exif/1.0/"
+    xmlns:pdf="https://ns.adobe.com/pdf/1.3/"
    xmp:CreatorTool="Adobe Illustrator CS5"
    xmp:CreateDate="2013-12-27T14:56:58Z"
    xmp:MetadataDate="2013-12-27T14:56:58Z"
@@ -16347,14 +16347,14 @@ endobj
 45 0 obj
 <</Length 2076/Subtype/XML/Type/Metadata>>stream
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c123 79.158978, 2016/02/13-01:11:19        ">
- <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <rdf:RDF xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about=""
-    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
-    xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
-    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
-    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:xmp="https://ns.adobe.com/xap/1.0/"
+    xmlns:pdf="https://ns.adobe.com/pdf/1.3/"
+    xmlns:dc="https://purl.org/dc/elements/1.1/"
+    xmlns:xmpMM="https://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="https://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:photoshop="https://ns.adobe.com/photoshop/1.0/"
    xmp:CreateDate="2015-06-23T09:48:23Z"
    xmp:CreatorTool="Adobe Photoshop CC 2015 (Macintosh)"
    xmp:ModifyDate="2016-08-15T11:11:12Z"
@@ -16443,14 +16443,14 @@ endobj
 47 0 obj
 <</Length 1768/Subtype/XML/Type/Metadata>>stream
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c123 79.158978, 2016/02/13-01:11:19        ">
- <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <rdf:RDF xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about=""
-    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
-    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
-    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
-    xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/"
+    xmlns:xmp="https://ns.adobe.com/xap/1.0/"
+    xmlns:xmpMM="https://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="https://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:dc="https://purl.org/dc/elements/1.1/"
+    xmlns:photoshop="https://ns.adobe.com/photoshop/1.0/"
+    xmlns:xmpRights="https://ns.adobe.com/xap/1.0/rights/"
    xmp:CreatorTool="Adobe Photoshop CS3 Windows"
    xmp:ModifyDate="2016-08-15T11:06Z"
    xmp:CreateDate="2016-05-17T11:54:43"
@@ -16760,14 +16760,14 @@ endobj
 73 0 obj
 <</Length 1740/Subtype/XML/Type/Metadata>>stream
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c123 79.158978, 2016/02/13-01:11:19        ">
- <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <rdf:RDF xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about=""
-    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
-    xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
-    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
-    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:xmp="https://ns.adobe.com/xap/1.0/"
+    xmlns:pdf="https://ns.adobe.com/pdf/1.3/"
+    xmlns:dc="https://purl.org/dc/elements/1.1/"
+    xmlns:xmpMM="https://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="https://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:photoshop="https://ns.adobe.com/photoshop/1.0/"
    xmp:CreateDate="2015-06-23T09:48:23Z"
    xmp:CreatorTool="Word"
    xmp:ModifyDate="2015-06-23T09:53:24Z"
@@ -16865,14 +16865,14 @@ endobj
 75 0 obj
 <</Length 1740/Subtype/XML/Type/Metadata>>stream
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c123 79.158978, 2016/02/13-01:11:19        ">
- <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <rdf:RDF xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about=""
-    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
-    xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
-    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
-    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:xmp="https://ns.adobe.com/xap/1.0/"
+    xmlns:pdf="https://ns.adobe.com/pdf/1.3/"
+    xmlns:dc="https://purl.org/dc/elements/1.1/"
+    xmlns:xmpMM="https://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="https://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:photoshop="https://ns.adobe.com/photoshop/1.0/"
    xmp:CreateDate="2015-06-23T09:48:23Z"
    xmp:CreatorTool="Word"
    xmp:ModifyDate="2015-06-23T09:53:46Z"
@@ -16956,14 +16956,14 @@ endobj
 77 0 obj
 <</Length 1740/Subtype/XML/Type/Metadata>>stream
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c123 79.158978, 2016/02/13-01:11:19        ">
- <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <rdf:RDF xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about=""
-    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
-    xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
-    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
-    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:xmp="https://ns.adobe.com/xap/1.0/"
+    xmlns:pdf="https://ns.adobe.com/pdf/1.3/"
+    xmlns:dc="https://purl.org/dc/elements/1.1/"
+    xmlns:xmpMM="https://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="https://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:photoshop="https://ns.adobe.com/photoshop/1.0/"
    xmp:CreateDate="2015-06-23T09:48:23Z"
    xmp:CreatorTool="Word"
    xmp:ModifyDate="2015-06-23T09:54:38Z"
@@ -17217,14 +17217,14 @@ endobj
 97 0 obj
 <</Length 1740/Subtype/XML/Type/Metadata>>stream
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c123 79.158978, 2016/02/13-01:11:19        ">
- <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <rdf:RDF xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about=""
-    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
-    xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
-    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
-    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:xmp="https://ns.adobe.com/xap/1.0/"
+    xmlns:pdf="https://ns.adobe.com/pdf/1.3/"
+    xmlns:dc="https://purl.org/dc/elements/1.1/"
+    xmlns:xmpMM="https://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="https://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:photoshop="https://ns.adobe.com/photoshop/1.0/"
    xmp:CreateDate="2015-06-23T09:48:23Z"
    xmp:CreatorTool="Word"
    xmp:ModifyDate="2015-06-23T09:54:14Z"
@@ -17323,14 +17323,14 @@ endobj
 99 0 obj
 <</Length 2076/Subtype/XML/Type/Metadata>>stream
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c123 79.158978, 2016/02/13-01:11:19        ">
- <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <rdf:RDF xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about=""
-    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
-    xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
-    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
-    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:xmp="https://ns.adobe.com/xap/1.0/"
+    xmlns:pdf="https://ns.adobe.com/pdf/1.3/"
+    xmlns:dc="https://purl.org/dc/elements/1.1/"
+    xmlns:xmpMM="https://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="https://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:photoshop="https://ns.adobe.com/photoshop/1.0/"
    xmp:CreateDate="2015-06-23T09:48:23Z"
    xmp:CreatorTool="Adobe Photoshop CC 2015 (Macintosh)"
    xmp:ModifyDate="2015-06-24T13:41:51Z"
@@ -17621,14 +17621,14 @@ endobj
 120 0 obj
 <</Length 2076/Subtype/XML/Type/Metadata>>stream
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c123 79.158978, 2016/02/13-01:11:19        ">
- <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <rdf:RDF xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about=""
-    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
-    xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
-    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
-    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:xmp="https://ns.adobe.com/xap/1.0/"
+    xmlns:pdf="https://ns.adobe.com/pdf/1.3/"
+    xmlns:dc="https://purl.org/dc/elements/1.1/"
+    xmlns:xmpMM="https://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="https://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:photoshop="https://ns.adobe.com/photoshop/1.0/"
    xmp:CreateDate="2015-06-23T09:48:23Z"
    xmp:CreatorTool="Adobe Photoshop CC 2015 (Macintosh)"
    xmp:ModifyDate="2016-08-15T11:11:12Z"
@@ -17721,14 +17721,14 @@ endobj
 122 0 obj
 <</Length 1768/Subtype/XML/Type/Metadata>>stream
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c123 79.158978, 2016/02/13-01:11:19        ">
- <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <rdf:RDF xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about=""
-    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
-    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
-    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
-    xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/"
+    xmlns:xmp="https://ns.adobe.com/xap/1.0/"
+    xmlns:xmpMM="https://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="https://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:dc="https://purl.org/dc/elements/1.1/"
+    xmlns:photoshop="https://ns.adobe.com/photoshop/1.0/"
+    xmlns:xmpRights="https://ns.adobe.com/xap/1.0/rights/"
    xmp:CreatorTool="Adobe Photoshop CS3 Windows"
    xmp:ModifyDate="2016-08-15T11:06Z"
    xmp:CreateDate="2016-05-17T11:54:43"
@@ -17804,14 +17804,14 @@ endobj
 124 0 obj
 <</Length 1740/Subtype/XML/Type/Metadata>>stream
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c123 79.158978, 2016/02/13-01:11:19        ">
- <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <rdf:RDF xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about=""
-    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
-    xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
-    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
-    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:xmp="https://ns.adobe.com/xap/1.0/"
+    xmlns:pdf="https://ns.adobe.com/pdf/1.3/"
+    xmlns:dc="https://purl.org/dc/elements/1.1/"
+    xmlns:xmpMM="https://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="https://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:photoshop="https://ns.adobe.com/photoshop/1.0/"
    xmp:CreateDate="2015-06-23T09:48:23Z"
    xmp:CreatorTool="Word"
    xmp:ModifyDate="2015-06-23T09:52:24Z"
@@ -17918,14 +17918,14 @@ endobj
 128 0 obj
 <</Length 2087/Subtype/XML/Type/Metadata>>stream
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c123 79.158978, 2016/02/13-01:11:19        ">
- <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <rdf:RDF xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about=""
-    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
-    xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
-    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
-    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:xmp="https://ns.adobe.com/xap/1.0/"
+    xmlns:pdf="https://ns.adobe.com/pdf/1.3/"
+    xmlns:dc="https://purl.org/dc/elements/1.1/"
+    xmlns:xmpMM="https://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="https://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:photoshop="https://ns.adobe.com/photoshop/1.0/"
    xmp:CreateDate="2015-06-24T16:04:10Z"
    xmp:CreatorTool="Adobe Photoshop CC 2015 (Macintosh)"
    xmp:ModifyDate="2016-08-15T11:07:19Z"
@@ -18007,14 +18007,14 @@ endobj
 130 0 obj
 <</Length 2087/Subtype/XML/Type/Metadata>>stream
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c123 79.158978, 2016/02/13-01:11:19        ">
- <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <rdf:RDF xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about=""
-    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
-    xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
-    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
-    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:xmp="https://ns.adobe.com/xap/1.0/"
+    xmlns:pdf="https://ns.adobe.com/pdf/1.3/"
+    xmlns:dc="https://purl.org/dc/elements/1.1/"
+    xmlns:xmpMM="https://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="https://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:photoshop="https://ns.adobe.com/photoshop/1.0/"
    xmp:CreateDate="2015-06-24T16:04:10Z"
    xmp:CreatorTool="Adobe Photoshop CC 2015 (Macintosh)"
    xmp:ModifyDate="2016-08-15T11:07:40Z"
@@ -18100,14 +18100,14 @@ endobj
 132 0 obj
 <</Length 2087/Subtype/XML/Type/Metadata>>stream
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c123 79.158978, 2016/02/13-01:11:19        ">
- <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <rdf:RDF xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about=""
-    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
-    xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
-    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
-    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:xmp="https://ns.adobe.com/xap/1.0/"
+    xmlns:pdf="https://ns.adobe.com/pdf/1.3/"
+    xmlns:dc="https://purl.org/dc/elements/1.1/"
+    xmlns:xmpMM="https://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="https://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:photoshop="https://ns.adobe.com/photoshop/1.0/"
    xmp:CreateDate="2015-06-24T16:04:10Z"
    xmp:CreatorTool="Adobe Photoshop CC 2015 (Macintosh)"
    xmp:ModifyDate="2016-08-15T11:07:58Z"
@@ -18184,14 +18184,14 @@ endobj
 134 0 obj
 <</Length 2087/Subtype/XML/Type/Metadata>>stream
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c123 79.158978, 2016/02/13-01:11:19        ">
- <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <rdf:RDF xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about=""
-    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
-    xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
-    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
-    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:xmp="https://ns.adobe.com/xap/1.0/"
+    xmlns:pdf="https://ns.adobe.com/pdf/1.3/"
+    xmlns:dc="https://purl.org/dc/elements/1.1/"
+    xmlns:xmpMM="https://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="https://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:photoshop="https://ns.adobe.com/photoshop/1.0/"
    xmp:CreateDate="2015-06-24T16:04:10Z"
    xmp:CreatorTool="Adobe Photoshop CC 2015 (Macintosh)"
    xmp:ModifyDate="2016-08-15T11:08:19Z"
@@ -18271,14 +18271,14 @@ endobj
 136 0 obj
 <</Length 2087/Subtype/XML/Type/Metadata>>stream
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c123 79.158978, 2016/02/13-01:11:19        ">
- <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <rdf:RDF xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about=""
-    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
-    xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
-    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
-    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:xmp="https://ns.adobe.com/xap/1.0/"
+    xmlns:pdf="https://ns.adobe.com/pdf/1.3/"
+    xmlns:dc="https://purl.org/dc/elements/1.1/"
+    xmlns:xmpMM="https://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="https://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:photoshop="https://ns.adobe.com/photoshop/1.0/"
    xmp:CreateDate="2015-06-24T16:04:10Z"
    xmp:CreatorTool="Adobe Photoshop CC 2015 (Macintosh)"
    xmp:ModifyDate="2016-08-15T11:08:53Z"
@@ -18400,14 +18400,14 @@ endobj
 140 0 obj
 <</Length 2076/Subtype/XML/Type/Metadata>>stream
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c123 79.158978, 2016/02/13-01:11:19        ">
- <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <rdf:RDF xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about=""
-    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
-    xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
-    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
-    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:xmp="https://ns.adobe.com/xap/1.0/"
+    xmlns:pdf="https://ns.adobe.com/pdf/1.3/"
+    xmlns:dc="https://purl.org/dc/elements/1.1/"
+    xmlns:xmpMM="https://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="https://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:photoshop="https://ns.adobe.com/photoshop/1.0/"
    xmp:CreateDate="2015-06-23T09:48:23Z"
    xmp:CreatorTool="Adobe Photoshop CC 2015 (Macintosh)"
    xmp:ModifyDate="2015-06-24T13:41:51Z"
@@ -18494,14 +18494,14 @@ endobj
 142 0 obj
 <</Length 2087/Subtype/XML/Type/Metadata>>stream
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c123 79.158978, 2016/02/13-01:11:19        ">
- <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <rdf:RDF xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about=""
-    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
-    xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
-    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
-    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:xmp="https://ns.adobe.com/xap/1.0/"
+    xmlns:pdf="https://ns.adobe.com/pdf/1.3/"
+    xmlns:dc="https://purl.org/dc/elements/1.1/"
+    xmlns:xmpMM="https://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="https://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:photoshop="https://ns.adobe.com/photoshop/1.0/"
    xmp:CreateDate="2015-06-24T16:04:10Z"
    xmp:CreatorTool="Adobe Photoshop CC 2015 (Macintosh)"
    xmp:ModifyDate="2016-08-15T11:09:20Z"
@@ -18590,14 +18590,14 @@ endobj
 144 0 obj
 <</Length 2087/Subtype/XML/Type/Metadata>>stream
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c123 79.158978, 2016/02/13-01:11:19        ">
- <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <rdf:RDF xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about=""
-    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
-    xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
-    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
-    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:xmp="https://ns.adobe.com/xap/1.0/"
+    xmlns:pdf="https://ns.adobe.com/pdf/1.3/"
+    xmlns:dc="https://purl.org/dc/elements/1.1/"
+    xmlns:xmpMM="https://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="https://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:photoshop="https://ns.adobe.com/photoshop/1.0/"
    xmp:CreateDate="2015-06-24T16:04:10Z"
    xmp:CreatorTool="Adobe Photoshop CC 2015 (Macintosh)"
    xmp:ModifyDate="2016-08-15T11:09:37Z"
@@ -18679,14 +18679,14 @@ endobj
 146 0 obj
 <</Length 2087/Subtype/XML/Type/Metadata>>stream
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c123 79.158978, 2016/02/13-01:11:19        ">
- <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <rdf:RDF xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about=""
-    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
-    xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
-    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
-    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:xmp="https://ns.adobe.com/xap/1.0/"
+    xmlns:pdf="https://ns.adobe.com/pdf/1.3/"
+    xmlns:dc="https://purl.org/dc/elements/1.1/"
+    xmlns:xmpMM="https://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="https://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:photoshop="https://ns.adobe.com/photoshop/1.0/"
    xmp:CreateDate="2015-06-24T16:04:10Z"
    xmp:CreatorTool="Adobe Photoshop CC 2015 (Macintosh)"
    xmp:ModifyDate="2016-08-15T11:09:56Z"
@@ -18773,14 +18773,14 @@ endobj
 148 0 obj
 <</Length 2087/Subtype/XML/Type/Metadata>>stream
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c123 79.158978, 2016/02/13-01:11:19        ">
- <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <rdf:RDF xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about=""
-    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
-    xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
-    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
-    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:xmp="https://ns.adobe.com/xap/1.0/"
+    xmlns:pdf="https://ns.adobe.com/pdf/1.3/"
+    xmlns:dc="https://purl.org/dc/elements/1.1/"
+    xmlns:xmpMM="https://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="https://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:photoshop="https://ns.adobe.com/photoshop/1.0/"
    xmp:CreateDate="2015-06-24T16:04:10Z"
    xmp:CreatorTool="Adobe Photoshop CC 2015 (Macintosh)"
    xmp:ModifyDate="2016-08-15T11:10:15Z"
@@ -18890,14 +18890,14 @@ endobj
 152 0 obj
 <</Length 2087/Subtype/XML/Type/Metadata>>stream
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c123 79.158978, 2016/02/13-01:11:19        ">
- <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <rdf:RDF xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about=""
-    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
-    xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
-    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
-    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:xmp="https://ns.adobe.com/xap/1.0/"
+    xmlns:pdf="https://ns.adobe.com/pdf/1.3/"
+    xmlns:dc="https://purl.org/dc/elements/1.1/"
+    xmlns:xmpMM="https://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="https://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:photoshop="https://ns.adobe.com/photoshop/1.0/"
    xmp:CreateDate="2015-06-24T16:04:10Z"
    xmp:CreatorTool="Adobe Photoshop CC 2015 (Macintosh)"
    xmp:ModifyDate="2016-08-15T11:10:33Z"
@@ -18964,14 +18964,14 @@ endobj
 154 0 obj
 <</Length 2087/Subtype/XML/Type/Metadata>>stream
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c123 79.158978, 2016/02/13-01:11:19        ">
- <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <rdf:RDF xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about=""
-    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
-    xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
-    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
-    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:xmp="https://ns.adobe.com/xap/1.0/"
+    xmlns:pdf="https://ns.adobe.com/pdf/1.3/"
+    xmlns:dc="https://purl.org/dc/elements/1.1/"
+    xmlns:xmpMM="https://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="https://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:photoshop="https://ns.adobe.com/photoshop/1.0/"
    xmp:CreateDate="2015-06-24T16:04:10Z"
    xmp:CreatorTool="Adobe Photoshop CC 2015 (Macintosh)"
    xmp:ModifyDate="2016-08-15T11:10:55Z"
@@ -19137,14 +19137,14 @@ endobj
 166 0 obj
 <</Length 2076/Subtype/XML/Type/Metadata>>stream
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c123 79.158978, 2016/02/13-01:11:19        ">
- <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <rdf:RDF xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about=""
-    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
-    xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
-    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
-    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:xmp="https://ns.adobe.com/xap/1.0/"
+    xmlns:pdf="https://ns.adobe.com/pdf/1.3/"
+    xmlns:dc="https://purl.org/dc/elements/1.1/"
+    xmlns:xmpMM="https://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="https://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:photoshop="https://ns.adobe.com/photoshop/1.0/"
    xmp:CreateDate="2015-06-23T09:48:23Z"
    xmp:CreatorTool="Adobe Photoshop CC 2015 (Macintosh)"
    xmp:ModifyDate="2016-08-15T11:11:12Z"
@@ -19288,17 +19288,17 @@ endobj
 173 0 obj
 <</Length 4865/Subtype/XML/Type/Metadata>>stream
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c123 79.158978, 2016/02/13-01:11:19        ">
- <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <rdf:RDF xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about=""
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
-    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
-    xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
-    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
-    xmlns:stMfs="http://ns.adobe.com/xap/1.0/sType/ManifestItem#"
-    xmlns:illustrator="http://ns.adobe.com/illustrator/1.0/"
-    xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
-    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:dc="https://purl.org/dc/elements/1.1/"
+    xmlns:xmp="https://ns.adobe.com/xap/1.0/"
+    xmlns:xmpMM="https://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stRef="https://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+    xmlns:stEvt="https://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:stMfs="https://ns.adobe.com/xap/1.0/sType/ManifestItem#"
+    xmlns:illustrator="https://ns.adobe.com/illustrator/1.0/"
+    xmlns:pdf="https://ns.adobe.com/pdf/1.3/"
+    xmlns:photoshop="https://ns.adobe.com/photoshop/1.0/"
    dc:format="image/tiff"
    xmp:MetadataDate="2016-04-13T15:24:29Z"
    xmp:ModifyDate="2016-04-13T15:24:29Z"
@@ -26450,18 +26450,18 @@ endobj
 184 0 obj
 <</Length 46086/Subtype/XML/Type/Metadata>>stream
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c123 79.158978, 2016/02/13-01:11:19        ">
- <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <rdf:RDF xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about=""
-    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
-    xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/"
-    xmlns:xmpGImg="http://ns.adobe.com/xap/1.0/g/img/"
-    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
-    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
-    xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
-    xmlns:idPriv="http://ns.adobe.com/xmp/InDesign/private"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
-    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:xmp="https://ns.adobe.com/xap/1.0/"
+    xmlns:xmpTPg="https://ns.adobe.com/xap/1.0/t/pg/"
+    xmlns:xmpGImg="https://ns.adobe.com/xap/1.0/g/img/"
+    xmlns:xmpMM="https://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="https://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:stRef="https://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+    xmlns:idPriv="https://ns.adobe.com/xmp/InDesign/private"
+    xmlns:dc="https://purl.org/dc/elements/1.1/"
+    xmlns:pdf="https://ns.adobe.com/pdf/1.3/"
+    xmlns:photoshop="https://ns.adobe.com/photoshop/1.0/"
    xmp:CreateDate="2014-05-13T16:32:29Z"
    xmp:MetadataDate="2015-06-29T15:14:04Z"
    xmp:ModifyDate="2015-06-29T15:14:04Z"
@@ -27328,18 +27328,18 @@ endobj
 188 0 obj
 <</Length 26149/Subtype/XML/Type/Metadata>>stream
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c123 79.158978, 2016/02/13-01:11:19        ">
- <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <rdf:RDF xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about=""
-    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
-    xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/"
-    xmlns:xmpGImg="http://ns.adobe.com/xap/1.0/g/img/"
-    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
-    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
-    xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
-    xmlns:idPriv="http://ns.adobe.com/xmp/InDesign/private"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
-    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:xmp="https://ns.adobe.com/xap/1.0/"
+    xmlns:xmpTPg="https://ns.adobe.com/xap/1.0/t/pg/"
+    xmlns:xmpGImg="https://ns.adobe.com/xap/1.0/g/img/"
+    xmlns:xmpMM="https://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="https://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:stRef="https://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+    xmlns:idPriv="https://ns.adobe.com/xmp/InDesign/private"
+    xmlns:dc="https://purl.org/dc/elements/1.1/"
+    xmlns:pdf="https://ns.adobe.com/pdf/1.3/"
+    xmlns:photoshop="https://ns.adobe.com/photoshop/1.0/"
    xmp:CreateDate="2014-05-13T16:32:29Z"
    xmp:MetadataDate="2015-06-29T15:14:28Z"
    xmp:ModifyDate="2015-06-29T15:14:28Z"
@@ -27685,18 +27685,18 @@ endobj
 203 0 obj
 <</Length 46086/Subtype/XML/Type/Metadata>>stream
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c123 79.158978, 2016/02/13-01:11:19        ">
- <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <rdf:RDF xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about=""
-    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
-    xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/"
-    xmlns:xmpGImg="http://ns.adobe.com/xap/1.0/g/img/"
-    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
-    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
-    xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
-    xmlns:idPriv="http://ns.adobe.com/xmp/InDesign/private"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
-    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:xmp="https://ns.adobe.com/xap/1.0/"
+    xmlns:xmpTPg="https://ns.adobe.com/xap/1.0/t/pg/"
+    xmlns:xmpGImg="https://ns.adobe.com/xap/1.0/g/img/"
+    xmlns:xmpMM="https://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="https://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:stRef="https://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+    xmlns:idPriv="https://ns.adobe.com/xmp/InDesign/private"
+    xmlns:dc="https://purl.org/dc/elements/1.1/"
+    xmlns:pdf="https://ns.adobe.com/pdf/1.3/"
+    xmlns:photoshop="https://ns.adobe.com/photoshop/1.0/"
    xmp:CreateDate="2014-05-13T16:32:29Z"
    xmp:MetadataDate="2015-07-09T18:30:44Z"
    xmp:ModifyDate="2015-07-09T18:30:44Z"
@@ -28460,14 +28460,14 @@ endobj
 209 0 obj
 <</Length 3388/Subtype/XML/Type/Metadata>>stream
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c123 79.158978, 2016/02/13-01:11:19        ">
- <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <rdf:RDF xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about=""
-    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
-    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
-    xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
-    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:xmp="https://ns.adobe.com/xap/1.0/"
+    xmlns:dc="https://purl.org/dc/elements/1.1/"
+    xmlns:xmpMM="https://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="https://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:stRef="https://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+    xmlns:photoshop="https://ns.adobe.com/photoshop/1.0/"
    xmp:CreatorTool="Adobe Photoshop CC 2015 (Macintosh)"
    xmp:CreateDate="2016-05-11T12:15:10Z"
    xmp:MetadataDate="2016-05-11T13:06:22Z"
@@ -28994,18 +28994,18 @@ endobj
 215 0 obj
 <</Length 46086/Subtype/XML/Type/Metadata>>stream
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c123 79.158978, 2016/02/13-01:11:19        ">
- <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <rdf:RDF xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about=""
-    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
-    xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/"
-    xmlns:xmpGImg="http://ns.adobe.com/xap/1.0/g/img/"
-    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
-    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
-    xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
-    xmlns:idPriv="http://ns.adobe.com/xmp/InDesign/private"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
-    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:xmp="https://ns.adobe.com/xap/1.0/"
+    xmlns:xmpTPg="https://ns.adobe.com/xap/1.0/t/pg/"
+    xmlns:xmpGImg="https://ns.adobe.com/xap/1.0/g/img/"
+    xmlns:xmpMM="https://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="https://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:stRef="https://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+    xmlns:idPriv="https://ns.adobe.com/xmp/InDesign/private"
+    xmlns:dc="https://purl.org/dc/elements/1.1/"
+    xmlns:pdf="https://ns.adobe.com/pdf/1.3/"
+    xmlns:photoshop="https://ns.adobe.com/photoshop/1.0/"
    xmp:CreateDate="2014-05-13T16:32:29Z"
    xmp:MetadataDate="2015-06-29T15:14:04Z"
    xmp:ModifyDate="2015-06-29T15:14:04Z"
@@ -29737,18 +29737,18 @@ endobj
 219 0 obj
 <</Length 26149/Subtype/XML/Type/Metadata>>stream
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c123 79.158978, 2016/02/13-01:11:19        ">
- <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <rdf:RDF xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about=""
-    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
-    xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/"
-    xmlns:xmpGImg="http://ns.adobe.com/xap/1.0/g/img/"
-    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
-    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
-    xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
-    xmlns:idPriv="http://ns.adobe.com/xmp/InDesign/private"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
-    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:xmp="https://ns.adobe.com/xap/1.0/"
+    xmlns:xmpTPg="https://ns.adobe.com/xap/1.0/t/pg/"
+    xmlns:xmpGImg="https://ns.adobe.com/xap/1.0/g/img/"
+    xmlns:xmpMM="https://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="https://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:stRef="https://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+    xmlns:idPriv="https://ns.adobe.com/xmp/InDesign/private"
+    xmlns:dc="https://purl.org/dc/elements/1.1/"
+    xmlns:pdf="https://ns.adobe.com/pdf/1.3/"
+    xmlns:photoshop="https://ns.adobe.com/photoshop/1.0/"
    xmp:CreateDate="2014-05-13T16:32:29Z"
    xmp:MetadataDate="2015-06-29T15:14:28Z"
    xmp:ModifyDate="2015-06-29T15:14:28Z"
@@ -29953,14 +29953,14 @@ endobj
 222 0 obj
 <</Length 3388/Subtype/XML/Type/Metadata>>stream
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c123 79.158978, 2016/02/13-01:11:19        ">
- <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <rdf:RDF xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about=""
-    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
-    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
-    xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
-    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:xmp="https://ns.adobe.com/xap/1.0/"
+    xmlns:dc="https://purl.org/dc/elements/1.1/"
+    xmlns:xmpMM="https://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="https://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:stRef="https://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+    xmlns:photoshop="https://ns.adobe.com/photoshop/1.0/"
    xmp:CreatorTool="Adobe Photoshop CC 2015 (Macintosh)"
    xmp:CreateDate="2016-05-11T12:15:10Z"
    xmp:MetadataDate="2016-05-11T13:06:22Z"
@@ -32978,16 +32978,16 @@ endobj
 387 0 obj
 <</Length 2981/Subtype/XML/Type/Metadata>>stream
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c123 79.158978, 2016/02/13-01:11:19        ">
- <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <rdf:RDF xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about=""
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
-    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
-    xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
-    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
-    xmlns:illustrator="http://ns.adobe.com/illustrator/1.0/"
-    xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
-    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:dc="https://purl.org/dc/elements/1.1/"
+    xmlns:xmp="https://ns.adobe.com/xap/1.0/"
+    xmlns:xmpMM="https://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stRef="https://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+    xmlns:stEvt="https://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:illustrator="https://ns.adobe.com/illustrator/1.0/"
+    xmlns:pdf="https://ns.adobe.com/pdf/1.3/"
+    xmlns:photoshop="https://ns.adobe.com/photoshop/1.0/"
    dc:format="image/tiff"
    xmp:MetadataDate="2016-04-13T15:27:40Z"
    xmp:ModifyDate="2016-04-13T15:27:40Z"
@@ -33489,14 +33489,14 @@ endobj
 391 0 obj
 <</Length 3560/Subtype/XML/Type/Metadata>>stream
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c123 79.158978, 2016/02/13-01:11:19        ">
- <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <rdf:RDF xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about=""
-    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
-    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
-    xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
-    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:xmp="https://ns.adobe.com/xap/1.0/"
+    xmlns:dc="https://purl.org/dc/elements/1.1/"
+    xmlns:xmpMM="https://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="https://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:stRef="https://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+    xmlns:photoshop="https://ns.adobe.com/photoshop/1.0/"
    xmp:CreatorTool="Adobe Photoshop CC 2015 (Macintosh)"
    xmp:CreateDate="2016-05-11T14:36:51Z"
    xmp:MetadataDate="2016-05-11T15:10:19Z"
@@ -35676,14 +35676,14 @@ endobj
 504 0 obj
 <</Length 2076/Subtype/XML/Type/Metadata>>stream
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c123 79.158978, 2016/02/13-01:11:19        ">
- <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <rdf:RDF xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about=""
-    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
-    xmlns:pdf="http://ns.adobe.com/pdf/1.3/"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
-    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
-    xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+    xmlns:xmp="https://ns.adobe.com/xap/1.0/"
+    xmlns:pdf="https://ns.adobe.com/pdf/1.3/"
+    xmlns:dc="https://purl.org/dc/elements/1.1/"
+    xmlns:xmpMM="https://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="https://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:photoshop="https://ns.adobe.com/photoshop/1.0/"
    xmp:CreateDate="2015-06-23T09:48:23Z"
    xmp:CreatorTool="Adobe Photoshop CC 2015 (Macintosh)"
    xmp:ModifyDate="2016-08-15T11:06:16Z"
@@ -36326,14 +36326,14 @@ endobj
 <</Length 2468/Subtype/XML/Type/Metadata>>stream
 <?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
 <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c123 79.158978, 2016/02/13-01:11:19        ">
-   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <rdf:RDF xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#">
       <rdf:Description rdf:about=""
-            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
-            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
-            xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
-            xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
-            xmlns:dc="http://purl.org/dc/elements/1.1/"
-            xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+            xmlns:xmp="https://ns.adobe.com/xap/1.0/"
+            xmlns:xmpMM="https://ns.adobe.com/xap/1.0/mm/"
+            xmlns:stRef="https://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+            xmlns:stEvt="https://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+            xmlns:dc="https://purl.org/dc/elements/1.1/"
+            xmlns:pdf="https://ns.adobe.com/pdf/1.3/">
          <xmp:CreateDate>2016-08-24T13:46:09Z</xmp:CreateDate>
          <xmp:MetadataDate>2016-08-24T13:46:20Z</xmp:MetadataDate>
          <xmp:ModifyDate>2016-08-24T13:46:20Z</xmp:ModifyDate>

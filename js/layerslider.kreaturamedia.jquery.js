@@ -4,8 +4,8 @@
 	*
 	* (c) 2011-2013 George Krupa, John Gera & Kreatura Media
 	*
-	* Plugin web:			http://kreaturamedia.com/
-	* Licenses: 			http://codecanyon.net/licenses/
+	* Plugin web:			https://kreaturamedia.com/
+	* Licenses: 			https://codecanyon.net/licenses/
 */
 
 

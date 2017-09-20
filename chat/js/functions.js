@@ -74,7 +74,7 @@ function passwordStrength(password) {
 }
 
 /*! jQuery UI - v1.10.4 - 2014-01-26
-* http://jqueryui.com
+* https://jqueryui.com
 * Includes: jquery.ui.core.js, jquery.ui.widget.js
 * Copyright 2014 jQuery Foundation and other contributors; Licensed MIT */
 
@@ -82,11 +82,11 @@ function passwordStrength(password) {
 
 /*
  * jQuery UI Stars v3.0.1
- * http://plugins.jquery.com/project/Star_Rating_widget
+ * https://plugins.jquery.com/project/Star_Rating_widget
  *
  * Copyright (c) 2010 Marek "Orkan" Zajac (orkans@gmail.com)
  * Dual licensed under the MIT and GPL licenses.
- * http://docs.jquery.com/License
+ * https://docs.jquery.com/License
  *
  * $Rev: 164 $
  * $Date:: 2010-05-01 #$
@@ -132,19 +132,19 @@ function passwordStrength(password) {
 *
 * Copyright (c) 2010 Erik Zaadi
 *
-* Inspired by PrintArea (http://plugins.jquery.com/project/PrintArea) and
-* http://stackoverflow.com/questions/472951/how-do-i-print-an-iframe-from-javascript-in-safari-chrome
+* Inspired by PrintArea (https://plugins.jquery.com/project/PrintArea) and
+* https://stackoverflow.com/questions/472951/how-do-i-print-an-iframe-from-javascript-in-safari-chrome
 *
-*  Home Page : http://projects.erikzaadi/jQueryPlugins/jQuery.printElement 
-*  Issues (bug reporting) : http://github.com/erikzaadi/jQueryPlugins/issues/labels/printElement
-*  jQuery plugin page : http://plugins.jquery.com/project/printElement 
+*  Home Page : https://projects.erikzaadi/jQueryPlugins/jQuery.printElement 
+*  Issues (bug reporting) : https://github.com/erikzaadi/jQueryPlugins/issues/labels/printElement
+*  jQuery plugin page : https://plugins.jquery.com/project/printElement 
 *  
-*  Thanks to David B (http://github.com/ungenio) and icgJohn (http://www.blogger.com/profile/11881116857076484100)
+*  Thanks to David B (https://github.com/ungenio) and icgJohn (https://www.blogger.com/profile/11881116857076484100)
 *  For their great contributions!
 * 
 * Dual licensed under the MIT and GPL licenses:
-*   http://www.opensource.org/licenses/mit-license.php
-*   http://www.gnu.org/licenses/gpl.html
+*   https://www.opensource.org/licenses/mit-license.php
+*   https://www.gnu.org/licenses/gpl.html
 *   
 *   Note, Iframe Printing is not supported in Opera and Chrome 3.0, a popup window will be shown instead
 */
@@ -155,11 +155,11 @@ b;else this.innerHTML=b});return a("<div></div>").append(c.clone()).html()}funct
 if(i.printMode.toLowerCase()=="popup"){f=g.open("about:blank","printElementWindow","width=650,height=440,scrollbars=yes");e=f.document}else{f="printElement_"+Math.round(Math.random()*99999).toString();var h=j.createElement("IFRAME");a(h).attr({style:i.iframeElementOptions.styleToAdd,id:f,className:i.iframeElementOptions.classNameToAdd,frameBorder:0,scrolling:"no",src:"about:blank"});j.body.appendChild(h);e=h.contentWindow||h.contentDocument;if(e.document)e=e.document;h=j.frames?j.frames[f]:j.getElementById(f);
 f=h.contentWindow||h}focus();e.open();e.write(d);e.close();k(f)})};a.fn.printElement.defaults={printMode:"iframe",pageTitle:"",overrideElementCSS:null,printBodyOptions:{styleToAdd:"padding:10px;margin:10px;",classNameToAdd:""},leaveOpen:false,iframeElementOptions:{styleToAdd:"border:none;position:absolute;width:0px;height:0px;bottom:0px;left:0px;",classNameToAdd:""}};a.fn.printElement.cssElement={href:"",media:""}})(window);
 
-/*! http://mths.be/placeholder v2.0.7 by @mathias */
+/*! https://mths.be/placeholder v2.0.7 by @mathias */
 ;(function(f,h,$){var a='placeholder' in h.createElement('input'),d='placeholder' in h.createElement('textarea'),i=$.fn,c=$.valHooks,k,j;if(a&&d){j=i.placeholder=function(){return this};j.input=j.textarea=true}else{j=i.placeholder=function(){var l=this;l.filter((a?'textarea':':input')+'[placeholder]').not('.placeholder').bind({'focus.placeholder':b,'blur.placeholder':e}).data('placeholder-enabled',true).trigger('blur.placeholder');return l};j.input=a;j.textarea=d;k={get:function(m){var l=$(m);return l.data('placeholder-enabled')&&l.hasClass('placeholder')?'':m.value},set:function(m,n){var l=$(m);if(!l.data('placeholder-enabled')){return m.value=n}if(n==''){m.value=n;if(m!=h.activeElement){e.call(m)}}else{if(l.hasClass('placeholder')){b.call(m,true,n)||(m.value=n)}else{m.value=n}}return l}};a||(c.input=k);d||(c.textarea=k);$(function(){$(h).delegate('form','submit.placeholder',function(){var l=$('.placeholder',this).each(b);setTimeout(function(){l.each(e)},10)})});$(f).bind('beforeunload.placeholder',function(){$('.placeholder').each(function(){this.value=''})})}function g(m){var l={},n=/^jQuery\d+$/;$.each(m.attributes,function(p,o){if(o.specified&&!n.test(o.name)){l[o.name]=o.value}});return l}function b(m,n){var l=this,o=$(l);if(l.value==o.attr('placeholder')&&o.hasClass('placeholder')){if(o.data('placeholder-password')){o=o.hide().next().show().attr('id',o.removeAttr('id').data('placeholder-id'));if(m===true){return o[0].value=n}o.focus()}else{l.value='';o.removeClass('placeholder');l==h.activeElement&&l.select()}}}function e(){var q,l=this,p=$(l),m=p,o=this.id;if(l.value==''){if(l.type=='password'){if(!p.data('placeholder-textinput')){try{q=p.clone().attr({type:'text'})}catch(n){q=$('<input>').attr($.extend(g(this),{type:'text'}))}q.removeAttr('name').data({'placeholder-password':true,'placeholder-id':o}).bind('focus.placeholder',b);p.data({'placeholder-textinput':q,'placeholder-id':o}).before(q)}p=p.removeAttr('id').hide().prev().attr('id',o).show()}p.addClass('placeholder');p[0].value=p.attr('placeholder')}else{p.removeClass('placeholder')}}}(this,document,jQuery));
 
 /*!
- * Bootstrap v3.1.0 (http://getbootstrap.com)
+ * Bootstrap v3.1.0 (https://getbootstrap.com)
  * Copyright 2011-2014 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
